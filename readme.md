@@ -1,3 +1,9 @@
 ## Ask a Nerd - Backend
 
-Writen in Laravel
+Written in Laravel with JWT
+
+**Functions**
+- Register (normal user and Nerd)
+- Login
+- Keywords for the nerd (CRUD)
+- Questions for the normal user (CRUD)
