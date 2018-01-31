@@ -7,3 +7,7 @@ Written in Laravel with JWT
 - Login
 - Keywords for the nerd (CRUD)
 - Questions for the normal user (CRUD)
+
+**In development**
+- Matching
+- Chatting
