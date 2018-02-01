@@ -17,7 +17,13 @@
 
 ## Introduction
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
+Nerds can register and enter keywords on which they want to be found. The 'normal' person ask a question / requested service with a compensation / reward. The system searches the nearest nerd that matches the keywords by comparing the entered information. The nerd receives a push notification in which he can accept or reject the offer of the 'normal' person. As soon as the nerd has accepted the offer, the 'normal' person will also receive a push notification that they have a match. Now those people can chat and help each other out.
+
+Example situation:<br />
+Sanne (the 'normal' person) asks the following question: Help I have a virus on my laptop. Who can remove it? As a reward I take you to the cinema.
+Rick (the nerd) fits in the requested profile and accepts the offer.<br /><br />
+Win win situation:<br />
+Sanne has a laptop without a virus and Rick has a nice night out.
 
 ## Features
 
