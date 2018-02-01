@@ -19,10 +19,6 @@
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
 
-<p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
-</p>
-
 ## Features
 
 A few of the things you can do with Ask a Nerd:
@@ -46,36 +42,36 @@ The things we are currently developing:
 ## Screens
 
 **Splash**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/1.%20Splash.png" width=250>
 </p>
 
 **Login**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/2.%20Login.png" width=250>
 </p>
 
 **Registration**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/3.%20Registration.png" width=250>
 </p>
 
 **Choose person type**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/4.%20Choose%20person%20type.png" width=250>
 </p>
 
 **Ask a question**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/5.%20Ask%20a%20question.png" width=250>
 </p>
 
 **User Profile**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/6.%20User%20Profile.png" width=250>
 </p>
 
 **Match**
-<p align="center">
+<p>
   <img src = "https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/7.%20Match.png" width=250>
 </p>
