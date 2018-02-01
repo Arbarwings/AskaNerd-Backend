@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/logo.png" width="200">
+  <a href="https://github.com/Arbarwings/AskaNerd-Backend">
+    <img alt="Ask a Nerd" title="GitPoint" src="https://raw.githubusercontent.com/Arbarwings/AskaNerd-Backend/master/logo.png" width="200">
   </a>
 </p>
 
